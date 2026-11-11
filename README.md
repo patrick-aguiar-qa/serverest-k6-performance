@@ -119,4 +119,4 @@ The dashboard opens at `http://localhost:5665` during the run; the HTML report i
 
 ## Author
 
-**Patrick Aguiar** — QA Engineer · [GitHub](https://github.com/patrick-aguiar-qa)
+**Patrick Aguiar** — QA Engineer · [LinkedIn](https://www.linkedin.com/in/patrick-aguiar-qa) · [GitHub](https://github.com/patrick-aguiar-qa)

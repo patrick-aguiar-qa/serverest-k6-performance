@@ -9,6 +9,7 @@ real customer behavior and fail automatically when a performance requirement (NF
 Part of a small QA portfolio on the same product:
 [API tests](https://github.com/patrick-aguiar-qa/serverest-api-tests) ·
 [Web tests (Cypress)](https://github.com/patrick-aguiar-qa/serverest-web-cypress) ·
+[Playwright + TypeScript](https://github.com/patrick-aguiar-qa/serverest-playwright-ts) ·
 **Performance tests** (this repo).
 
 > All tests run against a **local** ServeRest instance (`npm run api`). Load tests should never be
